@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/saloni2935j/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/saloni2935j/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 <!---LeetCode Topics End-->
