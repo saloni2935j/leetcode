@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saloni2935j/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1470-shuffle-the-array](https://github.com/saloni2935j/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/saloni2935j/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/saloni2935j/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/saloni2935j/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -62,5 +63,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saloni2935j/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/saloni2935j/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/saloni2935j/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
