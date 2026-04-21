@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/saloni2935j/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saloni2935j/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1470-shuffle-the-array](https://github.com/saloni2935j/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/saloni2935j/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saloni2935j/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/saloni2935j/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/saloni2935j/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
