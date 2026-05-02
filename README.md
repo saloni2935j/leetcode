@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/saloni2935j/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saloni2935j/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saloni2935j/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/saloni2935j/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/saloni2935j/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saloni2935j/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Simulation
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/saloni2935j/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
