@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/saloni2935j/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/saloni2935j/leetcode/tree/main/1952-three-divisors/) | Easy |
