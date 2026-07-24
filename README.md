@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/saloni2935j/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/saloni2935j/leetcode/tree/main/0066-plus-one/) | Easy |
 | [1025-divisor-game](https://github.com/saloni2935j/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saloni2935j/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saloni2935j/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0066-plus-one](https://github.com/saloni2935j/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/saloni2935j/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/saloni2935j/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saloni2935j/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
