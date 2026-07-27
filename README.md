@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saloni2935j/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/saloni2935j/leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saloni2935j/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saloni2935j/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/saloni2935j/leetcode/tree/main/1952-three-divisors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saloni2935j/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
