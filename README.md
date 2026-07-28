@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/saloni2935j/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/saloni2935j/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/saloni2935j/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/saloni2935j/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/saloni2935j/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saloni2935j/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/saloni2935j/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/saloni2935j/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
