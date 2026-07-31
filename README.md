@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/saloni2935j/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/saloni2935j/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0509-fibonacci-number](https://github.com/saloni2935j/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/saloni2935j/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/saloni2935j/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saloni2935j/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saloni2935j/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
