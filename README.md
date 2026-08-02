@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/saloni2935j/leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saloni2935j/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/saloni2935j/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saloni2935j/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saloni2935j/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/saloni2935j/leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saloni2935j/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saloni2935j/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/saloni2935j/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/saloni2935j/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/saloni2935j/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saloni2935j/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/saloni2935j/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saloni2935j/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
