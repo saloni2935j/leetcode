@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/saloni2935j/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/saloni2935j/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/saloni2935j/leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1037-valid-boomerang](https://github.com/saloni2935j/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saloni2935j/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saloni2935j/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saloni2935j/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/saloni2935j/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/saloni2935j/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1037-valid-boomerang](https://github.com/saloni2935j/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saloni2935j/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saloni2935j/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saloni2935j/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -147,5 +149,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1037-valid-boomerang](https://github.com/saloni2935j/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saloni2935j/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 <!---LeetCode Topics End-->
