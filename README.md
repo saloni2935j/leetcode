@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/saloni2935j/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saloni2935j/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Enumeration
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saloni2935j/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/saloni2935j/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saloni2935j/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/saloni2935j/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/saloni2935j/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1037-valid-boomerang](https://github.com/saloni2935j/leetcode/tree/main/1037-valid-boomerang/) | Easy |
@@ -92,11 +94,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saloni2935j/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/saloni2935j/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/saloni2935j/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -116,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/saloni2935j/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -158,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/saloni2935j/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saloni2935j/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
