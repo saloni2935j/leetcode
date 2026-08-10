@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/saloni2935j/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/saloni2935j/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/saloni2935j/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0520-detect-capital](https://github.com/saloni2935j/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/saloni2935j/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/saloni2935j/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saloni2935j/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
