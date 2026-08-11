@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saloni2935j/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/saloni2935j/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/saloni2935j/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/saloni2935j/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/saloni2935j/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1037-valid-boomerang](https://github.com/saloni2935j/leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saloni2935j/leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
